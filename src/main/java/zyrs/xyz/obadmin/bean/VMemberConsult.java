@@ -10,7 +10,7 @@ import java.util.List;
  * Created by Administrator on 2019/2/14.
  * 全V健康  咨询
  */
-public class VmemberConsult {
+public class VMemberConsult {
 
     private Integer id;
     private String patientWxopenid;//患者
